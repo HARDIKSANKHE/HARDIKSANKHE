@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Sankhe</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer form India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnV0MGdva05WenNQZ3VfNFUxd29KSWVTaVotd3xBQ3Jtc0tuV2tWbnNHa2pRYzQxVDhyYUZ1bVN2NmtnNFVTVEJvV204TGt5Z05Nem8tWEdZVnExVDlIbE4wTE5hM0xGbDBVbVYtd2sweFVEdExSS19KcFRtb2x1cVVpRkZxU0hRTV9hQ1ZLUU9wZWNVdWpQLWlwQQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiksankhe&label=Profile%20views&color=0e75b6&style=flat" alt="hardiksankhe" /> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /> </p>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
